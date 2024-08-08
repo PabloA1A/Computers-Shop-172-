@@ -35,4 +35,4 @@ Pablo Abad
 ![My diagram](<Diagrama de clases tienda ordenadores.png>)
 
 ## Screenshot of the coverage test:
-![Coverage test](<Prueba de cobertura  computers shop.png>)
+![Coverage test](<Captura pantalla prueba de cobertura computers shop.jpg>)

@@ -5,6 +5,8 @@
         "clases",
         "cobertura",
         "ordenadores",
+        "pantalla",
+        "prueba",
         "tienda"
     ],
     "java.debug.settings.onBuildFailureProceed": true
